@@ -20,9 +20,17 @@ it, simply add the following line to your Podfile:
 pod 'MGCountDownBtn'
 ```
 
+## Usage
+
+```
+Import then UIButton invoke startTime method
+```
+
+
+
 ## Author
 
-winann, sya@mogoroom.com
+winann
 
 ## License
 
