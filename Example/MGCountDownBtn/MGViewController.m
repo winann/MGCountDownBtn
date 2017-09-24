@@ -7,6 +7,7 @@
 //
 
 #import "MGViewController.h"
+#import "MGCountDownBtn-umbrella.h"
 
 @interface MGViewController ()
 
@@ -18,6 +19,9 @@
 {
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
+}
+- (IBAction)countDownAction:(UIButton *)sender {
+    [sender startTime];
 }
 
 - (void)didReceiveMemoryWarning

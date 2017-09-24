@@ -1,0 +1,22 @@
+{
+  "name": "MGCountDownBtn",
+  "version": "0.1.0",
+  "summary": "A short description of MGCountDownBtn.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/winann/MGCountDownBtn",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "winann": "sya@mogoroom.com"
+  },
+  "source": {
+    "git": "https://github.com/winann/MGCountDownBtn.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "MGCountDownBtn/Classes/**/*"
+}

@@ -1,0 +1,6 @@
+framework module MGCountDownBtn {
+  umbrella header "MGCountDownBtn-umbrella.h"
+
+  export *
+  module * { export * }
+}
