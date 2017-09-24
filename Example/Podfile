@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'MGCountDownBtn_Example' do
+  pod 'MGCountDownBtn', :path => '../'
+
+  target 'MGCountDownBtn_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
